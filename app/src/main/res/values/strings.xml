@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lucky AI Keyboard</string>
+    <string name="ai_button">AI</string>
+    <string name="generate">Generate</string>
+    <string name="cancel">Cancel</string>
+    <string name="prompt_hint">Type your prompt here...</string>
+    <string name="tone_neutral">Neutral</string>
+    <string name="tone_formal">Formal</string>
+    <string name="tone_friendly">Friendly</string>
+    <string name="settings_api_key">API Key</string>
+    <string name="settings_show_ai">Show AI Button</string>
+    <string name="settings_enable_context">Enable Context (Experimental)</string>
+    <string name="settings_default_tone">Default Tone</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_how_to">How to Enable Keyboard</string>
+    <string name="error_network">Network error</string>
+    <string name="error_api">API error</string>
+    <string name="loading">Generating...</string>
+    <string name="privacy_statement">This is a custom keyboard. Only user-typed prompts are sent to AI. Password fields are protected.</string>
+    <string name="enable_instructions">To enable this keyboard, go to Settings > System > Languages & Input > Keyboards > Lucky AI Keyboard</string>
+</resources>

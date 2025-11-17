@@ -1,0 +1,16 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+build/
+*.swp
+*.apk
+*.aar
+*.dex
+*.so
+debug/
+release/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
